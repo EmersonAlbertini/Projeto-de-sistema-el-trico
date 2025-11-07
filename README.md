@@ -91,4 +91,4 @@ Este projeto destina-se unicamente para fins didáticos e não deve ser utilizad
 ## ✉️ Contato
 - Emerson Falcão Albertini
 - emersonalbertini01@gmail.com
-- [https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334](url)
+- [LinkedIn](https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334)
